@@ -1,1 +1,2 @@
-<?php `git pull` ?>
+
+<?php `sudo git pull` ?>
