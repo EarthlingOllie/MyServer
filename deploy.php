@@ -1,0 +1,2 @@
+
+<?php `sudo git pull` ?>
