@@ -1,3 +1,5 @@
 <?php 
-    shell_exec('git pull');
+    $output = `ls -la`;
+
+    echo $output;
 ?>
