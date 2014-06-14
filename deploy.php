@@ -1,6 +1,6 @@
 <?php 
 
-	`git pull`;
+	`sudo git pull`;
 
     print_r($_POST);
 
