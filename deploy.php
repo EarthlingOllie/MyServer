@@ -1,5 +1,5 @@
 <?php 
 
-	echo `git pull 2>&1`;
+	echo `git pull`;
 
 ?>
