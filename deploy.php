@@ -1,5 +1,6 @@
 <?php 
-    $output = `ls -la`;
+
+    $output = `git pull`;
 
     echo $output;
 ?>
