@@ -1,2 +1,2 @@
 
-<?php `sudo git pull` ?>
+<?php phpinfo(); ?>
