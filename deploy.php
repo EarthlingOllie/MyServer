@@ -1,5 +1,5 @@
 <?php 
 
-	`git pull`;
+	`php shell_exec('git pull')`;
 
 ?>
